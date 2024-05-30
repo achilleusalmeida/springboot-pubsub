@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -d "Hello this is a test from Achilleus"  localhost:8080/send/
