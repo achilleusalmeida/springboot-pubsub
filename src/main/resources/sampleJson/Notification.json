@@ -1,0 +1,5 @@
+{
+  "accountNumber":"56524563",
+  "template":"ACCOUNT_DEBIT",
+  "notificationType": "SMS"
+}

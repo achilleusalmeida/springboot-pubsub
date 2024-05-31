@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springboot-pubsub
+  cloud:
+   gcp:
+    project-id:

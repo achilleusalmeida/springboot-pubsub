@@ -1,0 +1,4 @@
+gcp:
+  pubsub:
+    topic:
+    subscription:
