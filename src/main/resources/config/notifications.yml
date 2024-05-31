@@ -1,0 +1,4 @@
+notifications:
+  sms:
+    ACCOUNT_DEBIT:
+      TEXT: "This is a sample account debit sms message"
